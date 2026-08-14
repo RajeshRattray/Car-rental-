@@ -1,4 +1,4 @@
-this is my six month internship training project 
+This is my six month internship training project 
 <br>
 author - Rajesh Kumar
 <br>
